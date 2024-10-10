@@ -1,1 +1,1 @@
-# guessing game first step
+# guessing game first step to Rust developping
