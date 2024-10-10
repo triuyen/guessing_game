@@ -5,6 +5,9 @@ Date limite de 24/11/2024 23h59. ( Une note individuelle / Une note de soutenanc
 Rapport des testes en format pdf
 fait des point d'observation.
 
+
+Things to Keep in mind about Rust:
+
  `expect` crashes on error
  `match` handle the error
 
@@ -16,3 +19,6 @@ associated function : a function implemented on a type .
  ``` 
  String::new();
  ```
+// varialbes are immutable by default
+// reference a immutable by default.
+// you must write : &mut guess
